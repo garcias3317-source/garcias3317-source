@@ -35,6 +35,14 @@
 ---
 
 ## 💬 Let's Connect
+
 I'm currently looking for **Help Desk** or **Junior Network Technician** roles where I can put my CCNA and A+ to work.
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-garcia0) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garcias3317@gmail.com)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sergio-garcia0" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:garcias3317@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+</p>
