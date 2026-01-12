@@ -22,7 +22,7 @@
 *Explore the labs I've built to simulate enterprise-level environments.*
 
 
-### 🏰 [Active Directory Domain Lab](https://github.com/YOUR_USERNAME/AD-Lab)
+### 🏰 [Active Directory Domain Lab](https://github.com/garcias3317-source/Active-Directory-Lab)
 > **Goal:** Create a centralized management system for a company’s users and computers.
 - **Key Features:** Setup a Domain Controller, and locked down systems using **Group Policy Objects (GPOs)**.
 - **The Result:** A simulated corporate environment ready for ticketing, password resets, and hardware deployment.
