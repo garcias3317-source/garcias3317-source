@@ -21,19 +21,25 @@
 ## 📂 Featured Projects
 *Explore the labs I've built to simulate enterprise-level environments.*
 
+### 🏰 [Active Directory & Windows Server Lab](https://github.com/garcias3317-source/Active-Directory-Lab)
+> **Goal:** Deploy and manage a centralized corporate infrastructure using a Server-Client architecture.
 
-### 🏰 [Active Directory Domain Lab](https://github.com/garcias3317-source/Active-Directory-Lab)
-> **Goal:** Create a centralized management system for a company’s users and computers.
-- **Key Features:** Setup a Domain Controller, and locked down systems using **Group Policy Objects (GPOs)**.
-- **The Result:** A simulated corporate environment ready for ticketing, password resets, and hardware deployment.
-
-### ☁️ [Office 365 Tenant Administration](https://github.com/YOUR_USERNAME/O365-Lab)
-> **Goal:** Manage identity and security for a cloud-first organization.
-- **Key Features:** Assigned licenses, configured **MFA policies**, and managed security groups for different access levels.
-- **The Result:** Demonstrated competency in modern "Cloud Help Desk" tasks.
+* **Environment Deployment:** Installed and configured **Windows Server** (Domain Controller) and **Windows 10/11 Clients** to establish a functional Active Directory Domain Services (AD DS) environment.
+* **Directory Hierarchy:** Designed and implemented **Organizational Units (OUs)** to streamline user account management and administrative delegation.
+* **Policy Enforcement:** Developed and linked **Group Policy Objects (GPOs)** to automate password requirements, enforce security banners, and standardize desktop backgrounds across the domain.
+* **Operational Tasks:** Performed core Help Desk functions including account provisioning, password resets, and permissions.
 
 ---
 
+### ☁️ [Microsoft 365 Tenant Administration Lab](https://github.com/sergio-garcia0/O365-Lab)
+> **Goal:** Standardize identity management and security protocols for a cloud-based enterprise environment.
+
+* **Identity Management:** Provisioned user accounts and organized hierarchical security groups within the **Microsoft 365 Admin Center**.
+* **License & Access Control:** Managed resource allocation by assigning specific licenses and granular access permissions based on user roles.
+* **Security Implementation:** Hardened tenant security by enabling and validating **Multi-Factor Authentication (MFA)** at the user level.
+
+
+---
 ## 💬 Let's Connect
 
 I'm currently looking for **Help Desk** or **Junior Network Technician** roles where I can put my CCNA and A+ to work.
